@@ -1,7 +1,2 @@
-coperta
-
-intro
-
-cuprins (piese)
-
-concluzie
+image::coperta.pdf[]
+image::blank.pdf[]
