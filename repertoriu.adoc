@@ -1,2 +1,5 @@
 image::coperta.pdf[]
-image::blank.pdf[]
+
+image::blank.jpg[]
+
+image::coperta_bw.jpg[]
