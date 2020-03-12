@@ -2,12 +2,14 @@
 
 :nofooter:
 
-image::coperta.pdf[]
+image::coperta/coperta_a4.pdf[]
 
 image::pagina_alba.jpg[]
 
-image::coperta_bw.jpg[]
+image::coperta/coperta_bw.jpg[]
 
 image::pagina_alba.jpg[]
 
 include::copyright.adoc[]
+
+include::piese.adoc[]
