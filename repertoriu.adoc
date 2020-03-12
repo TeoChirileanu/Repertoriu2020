@@ -7,3 +7,7 @@ image::coperta.pdf[]
 image::pagina_alba.jpg[]
 
 image::coperta_bw.jpg[]
+
+image::pagina_alba.jpg[]
+
+include::copyright.adoc[]
