@@ -1,5 +1,9 @@
+:doctype: book
+
+:nofooter:
+
 image::coperta.pdf[]
 
-image::blank.jpg[]
+image::pagina_alba.jpg[]
 
 image::coperta_bw.jpg[]
