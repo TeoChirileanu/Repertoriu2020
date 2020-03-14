@@ -1,6 +1,6 @@
 :nofooter:
 
-image::preambul/preambul.pdf[pages=1..12]
+image::preambul/preambul.pdf[pages=1..10]
 
 image::piese/piese.pdf[pages=1..29]
 
