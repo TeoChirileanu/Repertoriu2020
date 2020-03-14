@@ -22,3 +22,11 @@ steps:
   displayName: 'Get asciidoctor-pdf version'
   inputs:
     script: 'asciidoctor-pdf -v'
+- task: CmdLine@2
+  displayName: 'Convert Repertoriu simple'
+  inputs:
+    script: 'asciidoctor-pdf repertoriu.adoc -o repertoriu.pdf'
+- task: CmdLine@2
+  displayName: 'Convert Repertoriu'
+  inputs:
+    script: 'asciidoctor-pdf $(Agent.BuildDirectory)/repertoriu.adoc -o $(Agent.BuildDirectory)/repertoriu.pdf'
