@@ -23,10 +23,17 @@ steps:
   inputs:
     script: 'asciidoctor-pdf -v'
 - task: CmdLine@2
-  displayName: 'Convert Repertoriu simple'
+  displayName: 'Convert repertoriu from adoc to pdf'
   inputs:
     script: 'asciidoctor-pdf repertoriu.adoc -o repertoriu.pdf'
-- task: CmdLine@2
-  displayName: 'Convert Repertoriu'
+- task: CopyFiles@2
+  displayName: 'Copy repertoriu.pdf to staging'
   inputs:
-    script: 'asciidoctor-pdf $(Agent.BuildDirectory)/repertoriu.adoc -o $(Agent.BuildDirectory)/repertoriu.pdf'
+    Contents: '*.pdf'
+    TargetFolder: '$(build.artifactstagingdirectory)'
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish staged files'
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
