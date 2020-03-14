@@ -10,21 +10,21 @@ image::coperta/coperta_bw.pdf[]
 image::pagina_alba.pdf[]
 
 
-image::copyright.pdf[]
+image::copyright/copyright.pdf[]
 
 image::pagina_alba.pdf[]
 
 
-include::moto.adoc[]
+image::moto/moto.pdf[]
 
 image::pagina_alba.pdf[]
 
 
-image::descriere.pdf[]
+image::descriere/descriere.pdf[]
 
 image::pagina_alba.pdf[]
 
 
-include::cuprins.adoc[]
+image::cuprins.pdf[]
 
 image::pagina_alba.pdf[]
