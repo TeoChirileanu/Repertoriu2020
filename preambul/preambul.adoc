@@ -25,6 +25,6 @@ image::descriere/descriere.pdf[]
 image::../pagina_alba.pdf[]
 
 
-image::cuprins/cuprins.pdf[]
+// image::cuprins/cuprins.pdf[]
 
-image::../pagina_alba.pdf[]
+// image::../pagina_alba.pdf[]

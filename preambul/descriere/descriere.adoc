@@ -7,12 +7,14 @@ Dragi interpreți de muzică instrumentală,
 
 {sp} +
 
+[.text-justify]
 Vă invităm spre slava Domnului să participați la Festivalul de Blockflöte „_Fluier din Sion_”, ediția a XIII-a din *Conferința Moldova*, care va avea loc la Casa de Rugăciune din *Milişăuţi* (județul Suceava) pe data de *9 mai 2020*.
 
+[.text-justify]
 Repertoriul din acest an cuprinde piese ce au ca temă Sabatul ca zi de comemorare a Creaţiei, având la bază textul biblic „_Eu cânt de veselie când văd lucrarea mâinilor Tale._” (Ps. 92:4b VDC)
 
-Lucrul inedit în această ediție îl reprezintă prezența majoritară a pieselor compuse de sora _Cristina Potocean_ (10 la număr), din conferinţa *Transilvania de Nord*. Restul de 4 piese au fost scrise de alţi creatori de artă muzicală, lucrarea lor 
-fiind ulterior prelucrată și adaptată pentru orchestra de blockflöte.
+[.text-justify]
+Lucrul inedit în această ediție îl reprezintă prezența majoritară a pieselor compuse de sora _Cristina Potocean_ (10 la număr), din conferinţa *Transilvania de Nord*. Restul de 4 piese au fost scrise de alţi creatori de artă muzicală, lucrarea lor fiind ulterior prelucrată și adaptată pentru orchestra de blockflöte.
 
 {sp} +
 
@@ -45,13 +47,16 @@ Costumație
 [.lead]
 Alte Informații
 
-Repertoriul va fi disponibil în format electronic pe grupul de WhatsApp „Orchestra
-blockflote_”. Pentru a obține acces, adresați-vă lui *Ronald Parfenie* (+40720671947), administratorul grupului.
+[.text-justify]
+Repertoriul va fi disponibil în format electronic pe grupul de WhatsApp „_Orchestra
+blockflote_”. Pentru a obține acces, adresați-vă lui *Ronald Parfenie* (40720671947), administratorul grupului.
 
+[.text-justify]
 _Tabăra Naţională de Blockflöte_ ediția a V-a va avea loc la *Moeciu de Sus* (județul Braşov) în perioada *16 – 23 august 2020*. Concertul final se preconizează a fi la _Biserica Neagră_ pe data de *sâmbătă, 22 august 2020*.
 
 {sp} +
 
 Vă așteptăm cu drag! 
 
+[.lead]
 `Prof. Petru Diaconu`
