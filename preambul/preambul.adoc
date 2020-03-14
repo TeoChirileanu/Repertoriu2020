@@ -1,7 +1,5 @@
 :nofooter:
 
-:imagesdir: ./
-
 image::coperta/coperta_a4.pdf[]
 
 image::pagina_alba.pdf[]
