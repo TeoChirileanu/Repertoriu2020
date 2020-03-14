@@ -10,13 +10,15 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
-
 - task: UseRubyVersion@0
+  displayName: 'Install Ruby 2.4 or newer'
   inputs:
     versionSpec: '>= 2.4'
 - task: CmdLine@2
+  displayName: 'Install asciidoctor-pdf'
   inputs:
     script: 'gem install asciidoctor-pdf --pre'
-  displayName: 'Run a one-line script'
+- task: CmdLine@2
+  displayName: 'Get asciidoctor-pdf version'
+  inputs:
+    script: 'asciidoctor-pdf -v'
