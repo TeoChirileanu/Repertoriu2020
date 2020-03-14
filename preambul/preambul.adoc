@@ -2,29 +2,29 @@
 
 image::coperta/coperta_a4.pdf[]
 
-image::pagina_alba.pdf[]
+image::../pagina_alba.pdf[]
 
 
 image::coperta/coperta_bw.pdf[]
 
-image::pagina_alba.pdf[]
+image::../pagina_alba.pdf[]
 
 
 image::copyright/copyright.pdf[]
 
-image::pagina_alba.pdf[]
+image::../pagina_alba.pdf[]
 
 
 image::moto/moto.pdf[]
 
-image::pagina_alba.pdf[]
+image::../pagina_alba.pdf[]
 
 
 image::descriere/descriere.pdf[]
 
-image::pagina_alba.pdf[]
+image::../pagina_alba.pdf[]
 
 
-image::cuprins.pdf[]
+image::cuprins/cuprins.pdf[]
 
-image::pagina_alba.pdf[]
+image::../pagina_alba.pdf[]

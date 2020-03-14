@@ -1,27 +1,27 @@
-image::piese/AsteptSaReviiIsuse.pdf[]
+image::partituri/AsteptSaReviiIsuse.pdf[]
 
-image::piese/CineCineCine.pdf[]
+image::partituri/CineCineCine.pdf[]
 
-image::piese/CuMultumiri.pdf[pages=1..3]
+image::partituri/CuMultumiri.pdf[pages=1..3]
 
-image::piese/DinSufletItiMultumimParinte.pdf[]
+image::partituri/DinSufletItiMultumimParinte.pdf[]
 
-image::piese/DumnezeuDumnezeuSoareLunaACreat.pdf[]
+image::partituri/DumnezeuDumnezeuSoareLunaACreat.pdf[]
 
-image::piese/InCuvinteFoarteSimple.pdf[]
+image::partituri/InCuvinteFoarteSimple.pdf[]
 
-image::piese/IzvorDeViataImbelsugata.pdf[]
+image::partituri/IzvorDeViataImbelsugata.pdf[]
 
-image::piese/Menuet.pdf[pages=1..2]
+image::partituri/Menuet.pdf[pages=1..2]
 
-image::piese/MinunatEstiDoamne.pdf[]
+image::partituri/MinunatEstiDoamne.pdf[]
 
-image::piese/PlinDeFarmecSiFrumusete.pdf[]
+image::partituri/PlinDeFarmecSiFrumusete.pdf[]
 
-image::piese/SuntemCopii.pdf[]
+image::partituri/SuntemCopii.pdf[]
 
-image::piese/TuEstiDoamneAPaciiStanca.pdf[pages=1..4]
+image::partituri/TuEstiDoamneAPaciiStanca.pdf[pages=1..4]
 
-image::piese/LiberInDomnul.pdf[pages=1..7]
+image::partituri/LiberInDomnul.pdf[pages=1..7]
 
-image::piese/ImnuriNaltati.pdf[pages=1..4]
+image::partituri/ImnuriNaltati.pdf[pages=1..4]

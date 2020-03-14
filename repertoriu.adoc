@@ -1,5 +1,7 @@
 :nofooter:
 
-include::preambul/preambul.adoc[]
+image::preambul/preambul.pdf[pages=1..12]
 
-include::piese/piese.adoc[]
+image::piese/piese.pdf[pages=1..29]
+
+image::pagina_alba.pdf[pages=1..3]
