@@ -1,25 +1,5 @@
 :nofooter:
 
-image::coperta/coperta_a4.pdf[]
-
-image::pagina_alba.jpg[]
-
-image::coperta/coperta_bw.jpg[]
-
-image::pagina_alba.jpg[]
-
-include::copyright.adoc[]
-
-image::pagina_alba.jpg[]
-
-include::moto.adoc[]
-
-image::pagina_alba.jpg[]
-
-include::descriere.adoc[]
+include::preambul.adoc[]
 
 include::piese.adoc[]
-
-image::pagina_alba.jpg[]
-
-include::cuprins.adoc[]

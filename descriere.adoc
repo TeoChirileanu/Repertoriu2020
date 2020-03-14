@@ -2,6 +2,7 @@
 
 [.lead]
 [.big]
+[.text-center]
 Dragi interpreți de muzică instrumentală,
 
 Vă invităm spre slava Domnului să participați la Festivalul de Blockflöte „_Fluier din Sion_”, ediția a XIII-a din *Conferința Moldova*, care va avea loc la Casa de Rugăciune din *Milişăuţi* (județul Suceava) pe data de *9 mai 2020*.
@@ -23,7 +24,7 @@ Festivalul va avea loc în ziua de sâmbătă 9 mai și se va desfășura în do
 * Etapa II (_sabat după masă_), în care formațiile reunite vor interpreta repertoriul dat, sub forma unui *concert public* închinat Domnului.
 
 [.lead]
-Condițiile de participare la festival
+Condiții de participare
 
 . Înscrierea formației la _liderul local_ (care va informa organizatorul)
 

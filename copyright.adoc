@@ -1,7 +1,10 @@
-Copyright (C) 2020 Petru Diaconu (+40751210654)
+:nofooter:
 
-Tehnoredactare: Sebi Atănăsoai (+393278642381)
+[.lead]
+Copyright (C) 2020 *Petru Diaconu* (+40751210654)
 
-Copertă, Corecție Text și Aranjare în Pagină: Teodor Chirileanu (+33753811986)
+[.lead]
+Tehnoredactare: *Sebastian Atănăsoai* (+393278642381)
 
-<<<
+[.lead]
+Copertă, corecție text și aranjare în pagină: *Teodor Chirileanu* (+33753811986)
