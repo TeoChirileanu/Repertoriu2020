@@ -29,7 +29,7 @@ steps:
 - task: CopyFiles@2
   displayName: 'Copy repertoriu.pdf to staging'
   inputs:
-    Contents: '*.pdf'
+    Contents: 'repertoriu.pdf'
     TargetFolder: '$(build.artifactstagingdirectory)'
 - task: PublishBuildArtifacts@1
   displayName: 'Publish staged files'
